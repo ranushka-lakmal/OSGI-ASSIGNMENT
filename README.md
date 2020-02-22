@@ -1,10 +1,20 @@
+![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 # OSGI-ASSIGNMENT
 Library Management System 
 
 This Assignment contains 4 modules. 
-      1. Library Management Publisher
-      2. Librarian Subscriber
-      3. 
+
+
++ Library Management Publisher
+    
++ Librarian Subscriber
+
++ Book Stock Subscriber
+
++ Borrowed Book Subscriber
+----
+     
+      
 Here using Equinox which as implementation of the OSGi Framework.
 
 Getting Started
