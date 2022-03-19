@@ -32,3 +32,6 @@ Built language and technologies
     Java - Eclipse
     OSGi - OSGi Framework
     Equinox - Equinox Implementation of OSGi
+
+
+![alt text](https://github.com/ranushka-lakmal/OSGI-ASSIGNMENT/blob/master/Screenshots/1.png)
